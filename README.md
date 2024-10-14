@@ -44,15 +44,8 @@ Enter number of rows: 5
 
 Enter a string: *
 
-Output:
-"
-   * 
-   * * 
-   * * * 
-   * * * * 
-   * * * * * 
+![Uploading image.png…]()
 
-"
 
 6. **Contributing**:
     We welcome contributions to the Pattern Printer Project! If you would like to contribute, please follow these guidelines:
