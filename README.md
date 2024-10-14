@@ -41,17 +41,20 @@ To set up the **Pattern Printer Project** on your local machine, follow these st
 2 -> rightTrianglePattern
 Enter a number (1-2) to call a method, or 0 to exit: 1
 Enter number of rows: 5
+
 Enter a string: *
-   Output:
+
+Output:
+"
    * 
    * * 
    * * * 
    * * * * 
    * * * * * 
 
+"
 
-
-5. **Contributing**:
+6. **Contributing**:
     We welcome contributions to the Pattern Printer Project! If you would like to contribute, please follow these guidelines:
 
     Fork the Repository: Click the "Fork" button at the top right corner of the repository page.
