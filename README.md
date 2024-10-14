@@ -44,7 +44,9 @@ Enter number of rows: 5
 
 Enter a string: *
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/ad64c67e-2fc8-4841-a9a7-1090d02f7cc9)
+
+
 
 
 6. **Contributing**:
