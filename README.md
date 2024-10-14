@@ -42,12 +42,12 @@ To set up the **Pattern Printer Project** on your local machine, follow these st
 Enter a number (1-2) to call a method, or 0 to exit: 1
 Enter number of rows: 5
 Enter a string: *
-Output:
-* 
-* * 
-* * * 
-* * * * 
-* * * * * 
+   Output:
+   * 
+   * * 
+   * * * 
+   * * * * 
+   * * * * * 
 
 
 
